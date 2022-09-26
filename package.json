@@ -9,7 +9,7 @@
   "devDependencies": {
     "chromedriver": "^74.0.0",
     "mocha": "^6.1.4",
-    "nightwatch": "^1.1.11",
+    "nightwatch": "^1.7.13",
     "selenium-standalone": "^6.16.0"
   },
   "scripts": {
